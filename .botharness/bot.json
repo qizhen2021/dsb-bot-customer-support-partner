@@ -1,0 +1,22 @@
+{
+  "name": "Customer Support Partner",
+  "bio": "Drafts replies that state what is known and the next useful step",
+  "tags": [
+    "support",
+    "customers",
+    "communication",
+    "triage"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 2962591249
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
